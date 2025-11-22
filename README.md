@@ -1,6 +1,5 @@
 # CIS221-Course---My-Analytics-Application-Experience-
 
-Course: CIS221 Analytics Application
 Student: Sheena Salao
 
 ## Reflection
